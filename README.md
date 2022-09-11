@@ -1,2 +1,2 @@
 # hello-world!
-java
+This is a simple "Hello, World!" project for java.
